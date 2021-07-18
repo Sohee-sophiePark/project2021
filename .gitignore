@@ -1,1 +1,4 @@
 config.py
+alpaca_api.txt
+finnhub_api.txt
+*api.txt
